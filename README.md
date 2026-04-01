@@ -57,9 +57,5 @@ repair_status: Status of the warranty claim
 14.Analyze product sales trends over time, segmented into key periods: from launch to 6 months, 6-12 months, 12-18 months, and beyond 18 months.
 
 
-# DATASET 
 
-Size: 1 million+ rows of sales data.
-Period Covered: The data spans multiple years, allowing for long-term trend analysis.
-Geographical Coverage: Sales data from Apple stores across various countries.
 
